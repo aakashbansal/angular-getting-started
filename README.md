@@ -15,5 +15,5 @@ $ npm install
 $ npm start
 ```
 
-This starts the local server. Now open the web browser and go to **http://localhost:3000/** to view the app.
+This starts the local server. Now open the web browser and go to **http://localhost:4200/** to view the app.
 
